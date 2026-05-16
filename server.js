@@ -71,5 +71,5 @@ message: error.message,
 });
 
 app.listen(PORT, () => {
-console.log("VKTA API running on port ${PORT}");
+console.log(`VKTA API running on port ${PORT}`);
 });
